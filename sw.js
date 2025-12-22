@@ -1,8 +1,8 @@
 // sw.js
 
 // キャッシュ名を更新（v7）
-const CACHE_NAME = 'simple-calc-app-v8';
 
+const CACHE_NAME = 'simple-calc-app-v8';
 // 現在のファイル名に完全に一致させました
 const urlsToCache = [
   './',
